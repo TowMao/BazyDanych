@@ -136,7 +136,7 @@ git push -f origin master
 #### Pobranie repozytorium w inne miejsce/komputer
 - Jeżeli chcemy kontynuować pracę z zawartością repozytorium na innym komputerze, narzędziu to wystarczy przejść do folderu, w którym chcemy umieścić repozytorium, np. folder z innymi projektami i wykonać polecenie:
 ```
-git clone http://link.do.repo
+git clone https://link.do.repo
 ```
 - To polecenie utworzy nowy folder o nazwie takiej jak nazwa zdalnego repozytorium i umieści tam już informacje o jego stanie (folder _.git_) oraz informacji o _remote_ (ten sam, z którego został sklonowany). 
 - Teraz wystarczy skonfigurować user.name oraz user.email w przestrzeni _--local_, jeżeli nie ma poprawnych ustawień globalnych (pracujemy na tym samym koncie co inni użytkownicy) i można dalej pracować, zatwierdzać zmiany i wypychać je ponownie do zdalnego repozytorium.
