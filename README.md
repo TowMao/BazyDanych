@@ -1,3 +1,4 @@
 # BazyDanych
 
-kwerendy_SQL_zestaw_x (zamiast 'x' numer lekcji)
+#### Jak nazywać zadania?
+- kwerendy_SQL_zestaw_x (zamiast 'x' numer lekcji)
